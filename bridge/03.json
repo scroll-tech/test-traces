@@ -57,6 +57,10 @@
             }
         }
     },
-    "executionResults": [],
-    "withdraw_trie_root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    "rootAfter": "0x10f873a64d3b6a6158f89ff72b969cea899c9bedc925524bc1d3cd365a440455",
+    "rootBefore": "0x10f873a64d3b6a6158f89ff72b969cea899c9bedc925524bc1d3cd365a440455"
+  },
+  "transactions": [],
+  "version": "3.1.12-alpha-27a3830a",
+  "withdraw_trie_root": "0x0000000000000000000000000000000000000000000000000000000000000000"
 }
